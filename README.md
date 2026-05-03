@@ -1,3 +1,13 @@
+# DualReader + QA Automation
+
+Форк оригинального репозитория https://github.com/yanovskaya/DualReader  
+Добавлено полноценное автоматизированное тестирование:
+- UI-тесты на Selenide (React-фронтенд)
+- API-тесты на RestAssured
+- Postman-коллекция + Newman
+- Allure-отчёты + GitHub Actions
+
+
 # Lingua — Bilingual Reader
 
 A bilingual reading app based on the **Ilya Frank method**: English text on top (~82% of the screen), Russian translation below (~18%), synchronized scrolling. Tap any word to look it up in the AI-powered dictionary.
